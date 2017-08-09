@@ -1,2 +1,2 @@
-# py
-Python script
+# simple spider
+a spider script for downloading pic.
